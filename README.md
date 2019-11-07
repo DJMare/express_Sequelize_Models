@@ -106,6 +106,8 @@ VS CODE
 
 (22) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application: ![open app js file (express_Sequelize_Models)](https://user-images.githubusercontent.com/35668707/68351502-87c46900-00b8-11ea-8fa5-99c58c9c95c8.JPG)
 
+![add models sequelize sync to app js file (express_Sequelize_Models)](https://user-images.githubusercontent.com/35668707/68351612-d7a33000-00b8-11ea-8169-db3c45121700.JPG)
+
 
 NODEMON NOTE
 
