@@ -73,6 +73,9 @@ VS CODE
 
 (17) Open config/config.json file and change settings to connect to the database: ![open config json file (express_Sequelize_Models)](https://user-images.githubusercontent.com/35668707/68350121-3c0fc080-00b4-11ea-8960-c219bee9d7b0.JPG)
 
+![update database settings to connect to sakila in config json file (express_Sequelize_Models)](https://user-images.githubusercontent.com/35668707/68350238-91e46880-00b4-11ea-8e89-a4a287998705.JPG)
+
+
 NODEMON NOTE
 
 Sometimes nodemon crashes in Windows 10 and there is a simple fix:
