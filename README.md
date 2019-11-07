@@ -21,11 +21,11 @@ COMMAND PROMPT
 
 (5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_: 
 
-    express --view=hbs express_
+    express --view=hbs express_Sequelize_Models
 
-(6) Once the process is complete, navigate into the express_ directory: 
+(6) Once the process is complete, navigate into the express_Sequelize_Models directory: 
 
-    cd express_
+    cd express_Sequelize_Models
 
 (7) Now in the express_ directory, run the following: 
 
@@ -39,13 +39,13 @@ COMMAND PROMPT
 
     npm install -save-dev nodemon
     
-(10) Install mySQL:
+(10) Install mysql2:
 
-    npm install --save mysql
+    npm install --save mysql2
 
-(11) Start the server with Nodemon with the following command: 
+(11) Install sequelize: 
 
-    nodemon
+    npm install --save sequelize@4.43.0
 
 (12) Open in VS code:
 
@@ -54,7 +54,8 @@ COMMAND PROMPT
 
 VS CODE
 
-(13) Navigate to the routes/index.js file and update. Need to require the mySQL: 
+(13) Navigate to the routes/index.js file and update. Need to require the mysql2: ![open index js file (express_Sequelize_Models)](https://user-images.githubusercontent.com/35668707/68347978-7f1a6580-00ad-11ea-9ba9-6b75f52619b9.JPG)
+
 
 (14) Add the connection information to connect to mySQL in routes/index.js file: 
 
