@@ -94,6 +94,14 @@ MYSQL WORKBENCH
 
 (20) Open database in mySql workbench to view columns in table: ![mySQL workbench schemas - Sakila database](https://user-images.githubusercontent.com/35668707/68350595-b5f47980-00b5-11ea-8d1b-dd9879921010.JPG)
 
+COMMAND PROMPT
+
+(21) Generate a model file for the actor table. (-h: IP/Hostname; -d: Database; -u: Username for database; -x: Password for database; -o: directory to place the models; -t: comma-seperated names of tables to import):  
+
+    sequelize-auto -h localhost -d sakila -u root -x Password1! -o "./models" -t actor
+    
+![generate model file for actor in command prompt (express_Sequelize_Models)](https://user-images.githubusercontent.com/35668707/68351034-1b953580-00b7-11ea-8938-3016607ba083.JPG)
+
 
 NODEMON NOTE
 
