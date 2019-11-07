@@ -102,6 +102,10 @@ COMMAND PROMPT
     
 ![generate model file for actor in command prompt (express_Sequelize_Models)](https://user-images.githubusercontent.com/35668707/68351034-1b953580-00b7-11ea-8938-3016607ba083.JPG)
 
+VS CODE
+
+(22) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application: ![open app js file (express_Sequelize_Models)](https://user-images.githubusercontent.com/35668707/68351502-87c46900-00b8-11ea-8fa5-99c58c9c95c8.JPG)
+
 
 NODEMON NOTE
 
