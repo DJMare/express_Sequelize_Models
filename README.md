@@ -75,6 +75,18 @@ VS CODE
 
 ![update database settings to connect to sakila in config json file (express_Sequelize_Models)](https://user-images.githubusercontent.com/35668707/68350238-91e46880-00b4-11ea-8e89-a4a287998705.JPG)
 
+COMMAND PROMPT
+
+(18) Install mysql2 globally so sequelize CLI will be able to connect to the database:
+
+    npm install -g mysql2
+    
+(19) Install sequelize-auto tool to generate model files: 
+
+    npm install -g sequelize-auto
+
+![install sequelize-auto tool in command prompt (express_Sequelize_Models)](https://user-images.githubusercontent.com/35668707/68350358-e7207a00-00b4-11ea-8f82-d8d093ac92eb.JPG)
+    
 
 NODEMON NOTE
 
