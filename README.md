@@ -108,6 +108,10 @@ VS CODE
 
 ![add models sequelize sync to app js file (express_Sequelize_Models)](https://user-images.githubusercontent.com/35668707/68351612-d7a33000-00b8-11ea-8169-db3c45121700.JPG)
 
+COMMAND PROMPT
+
+(23) Run nodemon in terminal to see DB sync'd up: ![run nodemon in command prompt to see DB syncd up (express_Sequelize_Models)](https://user-images.githubusercontent.com/35668707/68351657-f73a5880-00b8-11ea-87a9-715f069d2901.JPG)
+
 
 NODEMON NOTE
 
