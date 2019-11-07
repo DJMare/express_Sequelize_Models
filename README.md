@@ -69,6 +69,9 @@ COMMAND PROMPT
 
     sequelize init
 
+VS CODE
+
+(17) Open config/config.json file and change settings to connect to the database: ![open config json file (express_Sequelize_Models)](https://user-images.githubusercontent.com/35668707/68350121-3c0fc080-00b4-11ea-8960-c219bee9d7b0.JPG)
 
 NODEMON NOTE
 
