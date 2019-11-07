@@ -59,6 +59,16 @@ VS CODE
 
 (14) Require mysql2 in routes/index.js file: ![require mySql2 in index js file (express_Sequelize_Models)](https://user-images.githubusercontent.com/35668707/68348939-534caf00-00b0-11ea-8902-697f55517952.JPG)
 
+COMMAND PROMPT
+
+(15) Install Sequelize CLI commands globally onto your computer: 
+
+    npm install -g sequelize-cli
+
+(16) Create necessary sequelize folders and filed in project:
+
+    sequelize init
+
 
 NODEMON NOTE
 
