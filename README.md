@@ -87,6 +87,10 @@ COMMAND PROMPT
 
 ![install sequelize-auto tool in command prompt (express_Sequelize_Models)](https://user-images.githubusercontent.com/35668707/68350358-e7207a00-00b4-11ea-8f82-d8d093ac92eb.JPG)
     
+MYSQL WORKBENCH
+
+(20) Open database in mySql workbench to view columns in table: ![mySQL workbench schemas - Sakila database](https://user-images.githubusercontent.com/35668707/68350595-b5f47980-00b5-11ea-8d1b-dd9879921010.JPG)
+
 
 NODEMON NOTE
 
