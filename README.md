@@ -68,6 +68,9 @@ COMMAND PROMPT
 (16) Create necessary sequelize folders and filed in project:
 
     sequelize init
+    
+![sequelize init in command prompt (express_Sequelize_Models)](https://user-images.githubusercontent.com/35668707/68350930-cfe28c00-00b6-11ea-999f-b7ae00b5f3ef.JPG)
+
 
 VS CODE
 
