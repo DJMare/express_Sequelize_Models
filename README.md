@@ -45,7 +45,7 @@ COMMAND PROMPT
 
 (11) Install sequelize: 
 
-    npm install --save sequelize@4.43.0
+    npm install --save sequelize@5.15.0
 
 (12) Open in VS code:
 
