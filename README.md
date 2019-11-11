@@ -27,7 +27,7 @@ COMMAND PROMPT
 
     cd express_Sequelize_Models
 
-(7) Now in the express_ directory, run the following: 
+(7) Now in the express_Sequelize_Models directory, run the following: 
 
     npm install
 
