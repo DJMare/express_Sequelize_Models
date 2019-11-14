@@ -1,5 +1,5 @@
 # express_Sequelize_Models
-An express app utilizing sequelize cli to connect to mySql database and to generate model file.
+An express app utilizing sequelize cli to connect to mySQL database and to generate model file.
 
 COMMAND PROMPT
 
@@ -7,7 +7,7 @@ COMMAND PROMPT
 
     cd Desktop
 
-(2) Create a new folder on desktop: 
+(2) Create a new folder on Desktop: 
 
     mkdir Express
 
