@@ -57,7 +57,7 @@ VS CODE
 (13) Navigate to the routes/index.js file.: ![open index js file (express_Sequelize_Models)](https://user-images.githubusercontent.com/35668707/68347978-7f1a6580-00ad-11ea-9ba9-6b75f52619b9.JPG)
 
 
-(14) Require mysql2 in routes/index.js file: ![require mySql2 in index js file (express_Sequelize_Models)](https://user-images.githubusercontent.com/35668707/68348939-534caf00-00b0-11ea-8902-697f55517952.JPG)
+(14) Require mySQL2 in routes/index.js file: ![require mySql2 in index js file (express_Sequelize_Models)](https://user-images.githubusercontent.com/35668707/68348939-534caf00-00b0-11ea-8902-697f55517952.JPG)
 
 COMMAND PROMPT
 
