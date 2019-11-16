@@ -39,7 +39,7 @@ COMMAND PROMPT
 
     npm install -save-dev nodemon
     
-(10) Install mysql2:
+(10) Install mySQL2:
 
     npm install --save mysql2
 
