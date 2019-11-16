@@ -80,7 +80,7 @@ VS CODE
 
 COMMAND PROMPT
 
-(18) Install mysql2 globally so sequelize CLI will be able to connect to the database:
+(18) Install mySQL2 globally so sequelize CLI will be able to connect to the database:
 
     npm install -g mysql2
     
