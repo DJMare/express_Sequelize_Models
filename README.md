@@ -23,7 +23,7 @@ COMMAND PROMPT
 
     express --view=hbs express_Sequelize_Models
 
-(6) Once the process is complete, navigate into the express_Sequelize_Models directory: 
+(6) Once the process is complete, navigate into the Express_Sequelize_Models directory: 
 
     cd express_Sequelize_Models
 
