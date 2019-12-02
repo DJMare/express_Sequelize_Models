@@ -1,4 +1,4 @@
-# Express_Sequelize_Models
+# Sequelize_Models
 An express app utilizing sequelize cli to connect to mySQL database and to generate model file.
 
 COMMAND PROMPT
